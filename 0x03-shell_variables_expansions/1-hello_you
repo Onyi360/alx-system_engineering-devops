@@ -1,2 +1,2 @@
 #!/bin/bash
-export hello user=hello Onyebuchi
+echo hello onyebuchi
